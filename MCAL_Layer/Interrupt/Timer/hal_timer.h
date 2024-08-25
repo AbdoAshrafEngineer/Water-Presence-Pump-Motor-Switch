@@ -1,8 +1,6 @@
 /*
  * File:   hal_timer.h
  * Author: Abdelrahman Ashraf
- *
- * Created on July 31, 2024
  */
 
 /* Header guard to prevent multiple inclusions of this header file */
