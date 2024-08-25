@@ -1,8 +1,6 @@
 /* 
  * File:   ext_interrupt.h
  * Author: Abdelrahman Ashraf
- *
- * Created on July 31, 2024, 5:09 AM
  */
 
 #ifndef EXT_INTERRUPT_H
